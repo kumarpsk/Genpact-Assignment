@@ -1,0 +1,26 @@
+.btn-style {
+    margin-top: 30px;
+    margin-left: 3px;
+}
+
+.show-element {
+    display: block;
+}
+
+.hide-element {
+    display: none;
+}
+.img-container{
+    display: flex;
+    justify-content: center;
+}
+.ms-Image{
+    padding: 5px;
+}
+.user-name {
+    padding: 3px;
+}
+.error{
+    text-align: center;
+    color: red;
+}
